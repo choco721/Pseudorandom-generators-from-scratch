@@ -57,7 +57,7 @@ Generación de variables aleatorias con distribución arbitraria a partir de $U 
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-1.26-blue?logo=numpy)
@@ -93,7 +93,7 @@ jupyter notebook TP1_Simulacion_2026.ipynb
 
 ---
 
-##  Autor
+##  Autores
 
 - Chocobares, Juan Cruz
 - Formenti, Agustín
